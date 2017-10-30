@@ -27,7 +27,7 @@ public class HW2 {
 	/**
 	 * This method is used for checking your result, not a part of your HW2
 	 * @param allCards 嚙踝蕭嚙踝蕭�嚙踝�蕭嚙�
-	 * @param nDeck �鞈ｇ嚙踝蕭��嚙踝嚙踝蕭嚙�
+	 * @param nDeck 哈哈哈哈哈哈哈哈哈哈
 	 * @return
 	 */
 	private static boolean isAllCardsCorrect(ArrayList<Card> allCards,int nDeck){
