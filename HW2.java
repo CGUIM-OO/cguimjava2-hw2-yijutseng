@@ -77,6 +77,7 @@ class Deck{
 		//Card card=new Card(1,1); ->means new card as clubs ace
 		//cards.add(card);
 		//Sample code end
+		//打作業打作業打作業
 
 	}	
 	//TODO: Please implement the method to print all cards on screen (10 points)
